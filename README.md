@@ -2,7 +2,7 @@
 
 <h1>Hey there! I'm Mahek</h1>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=AI+%26+Deep+Learning+Engineer;RAG+%7C+LLMs+%7C+Computer+Vision;Building+Intelligent+Systems" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Python+%26+Deep+Learning+Developer;Streamlit+%7C+PyTorch+%7C+NLP+%7C+Computer+Vision;Building+Interactive+ML+Applications" alt="Typing SVG" /></a>
 
 <br/>
 
@@ -22,8 +22,7 @@
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Mistral AI](https://img.shields.io/badge/-Mistral_AI-FD5E53?style=flat-square&logo=mistral&logoColor=white)
-![Sarvam AI](https://img.shields.io/badge/-Sarvam_AI-1E3A8A?style=flat-square&logo=google-cloud&logoColor=white)
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/-ChromaDB-0052FF?style=flat-square&logo=databricks&logoColor=white)
 ![Whisper](https://img.shields.io/badge/-OpenAI_Whisper-412991?style=flat-square&logo=openai&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
@@ -36,8 +35,8 @@
 
 ### 🚀 Highlight Projects
 
-- **Video RAG Assistant**: Built an end-to-end Video Retrieval-Augmented Generation (RAG) assistant integrating **Mistral** and **Sarvam AI** for advanced language processing, coupled with **Whisper** for transcribing video audio, and **ChromaDB** as the vector database for efficient semantic video search.
-- **Image Caption Generator**: Developed deep learning models for image captioning utilizing **CNN (Convolutional Neural Networks)** for visual feature extraction and **LSTM (Long Short-Term Memory)** networks for generating descriptive text sequences.
+- **Video RAG Assistant**: Developed a Python-based video querying application using **Streamlit**. The system transcribes video audio using **OpenAI Whisper**, indexes the semantic embeddings in **ChromaDB**, and retrieves relevant segments using **Mistral** & **Sarvam AI** for contextual question answering.
+- **Image Caption Generator**: Designed and trained an image captioning pipeline using a **CNN-LSTM** architecture in **PyTorch**, deployed as an interactive web interface using **Streamlit** for real-time inference.
 
 ---
 
