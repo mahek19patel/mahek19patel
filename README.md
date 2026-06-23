@@ -27,7 +27,6 @@
 ![ChromaDB](https://img.shields.io/badge/-ChromaDB-0052FF?style=flat-square&logo=databricks&logoColor=white)
 ![Whisper](https://img.shields.io/badge/-OpenAI_Whisper-412991?style=flat-square&logo=openai&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
@@ -37,8 +36,8 @@
 
 ### 🚀 Highlight Projects
 
-- **Multilingual RAG System**: Built an end-to-end Retrieval-Augmented Generation (RAG) system integrating **Mistral** and **Sarvam AI** for advanced language processing, coupled with **Whisper** for speech-to-text, and **ChromaDB** as the vector database for efficient semantic search.
-- **Deep Learning Classifier/Predictor**: Developed deep learning models utilizing **CNN (Convolutional Neural Networks)** for visual processing and **LSTM (Long Short-Term Memory)** networks for sequence/time-series data processing.
+- **Video RAG Assistant**: Built an end-to-end Video Retrieval-Augmented Generation (RAG) assistant integrating **Mistral** and **Sarvam AI** for advanced language processing, coupled with **Whisper** for transcribing video audio, and **ChromaDB** as the vector database for efficient semantic video search.
+- **Image Caption Generator**: Developed deep learning models for image captioning utilizing **CNN (Convolutional Neural Networks)** for visual feature extraction and **LSTM (Long Short-Term Memory)** networks for generating descriptive text sequences.
 
 ---
 
