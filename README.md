@@ -1,12 +1,12 @@
 <div align="center">
 
-<h1>Hi 👋, I'm Mahek</h1>
+<h1>Hey there! I'm Mahek</h1>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=AI+%26+Deep+Learning+Engineer;RAG+%7C+LLMs+%7C+Computer+Vision;Building+Intelligent+Systems" alt="Typing SVG" /></a>
 
 <br/>
 
-💼 Pre-final Yr @ MNIT Jaipur  •  📍 Jaipur, India
+💼 Pre-final Year @ MNIT Jaipur  •  📍 Jaipur, India
 
 <br/>
 
