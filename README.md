@@ -2,7 +2,7 @@
 
 <h1>Hi 👋, I'm Mahek</h1>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+%7C+AI+%7C+Automation;Building+Real+Solutions" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=AI+%26+Deep+Learning+Engineer;RAG+%7C+LLMs+%7C+Computer+Vision;Building+Intelligent+Systems" alt="Typing SVG" /></a>
 
 <br/>
 
@@ -20,18 +20,25 @@
 
 <div align="center">
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Mistral AI](https://img.shields.io/badge/-Mistral_AI-FD5E53?style=flat-square&logo=mistral&logoColor=white)
+![Sarvam AI](https://img.shields.io/badge/-Sarvam_AI-1E3A8A?style=flat-square&logo=google-cloud&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/-ChromaDB-0052FF?style=flat-square&logo=databricks&logoColor=white)
+![Whisper](https://img.shields.io/badge/-OpenAI_Whisper-412991?style=flat-square&logo=openai&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 </div>
+
+---
+
+### 🚀 Highlight Projects
+
+- **Multilingual RAG System**: Built an end-to-end Retrieval-Augmented Generation (RAG) system integrating **Mistral** and **Sarvam AI** for advanced language processing, coupled with **Whisper** for speech-to-text, and **ChromaDB** as the vector database for efficient semantic search.
+- **Deep Learning Classifier/Predictor**: Developed deep learning models utilizing **CNN (Convolutional Neural Networks)** for visual processing and **LSTM (Long Short-Term Memory)** networks for sequence/time-series data processing.
 
 ---
 
